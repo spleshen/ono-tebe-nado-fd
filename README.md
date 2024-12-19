@@ -1,1 +1,1 @@
-https://github.com/spleshen/ono-tebe-nado.project
+https://github.com/spleshen/ono-tebe-nado-fd
